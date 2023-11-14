@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uts2</string>
+    <string name="bodyMass">Berat Badan (Kg)</string>
+    <string name="bodyHeight">Tinggi Badan (m)</string>
+    <string name="top_appbar_title">BMI Calculator</string>
+    <string name="calculate">Hitung</string>
+</resources>
